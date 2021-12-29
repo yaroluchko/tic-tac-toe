@@ -31,6 +31,9 @@ body {
 
   .square:hover{
     background: rgb(3, 131, 170);
+  }
+
+  .square{
     cursor: pointer;
   }
 
